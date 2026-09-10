@@ -115,13 +115,22 @@ A Rules of Engagement (RoE) document was prepared to define the scope, objective
 
 Engagement Scope
 Target: Metasploitable 2 virtual machine
+
 Target IP: 192.168.229.129
+
 Environment: Isolated and authorized laboratory environment
+
+
 Assessment Objective: Demonstrate controlled exploitation of the VSFTPD 2.3.4 vulnerability (CVE-2011-2523).
+
 Reconnaissance: Network and service enumeration using Nmap.
+
 Exploitation: Controlled exploitation using the Metasploit Framework.
+
 Access Validation: Verification of the established session and security context using getuid.
+
 Impact Assessment: Evaluate the potential security impact without performing destructive actions.
+
 Authorized Activities
 Network and service reconnaissance.
 Vulnerability identification and analysis.
